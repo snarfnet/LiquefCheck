@@ -134,11 +134,11 @@ struct ContentView: View {
 
             Gauge(value: viewModel.riskLevel.score) {
                 Text("液状化リスク")
-            }
-            minimumValueLabel: {
+            } currentValueLabel: {
+                Text("")
+            } minimumValueLabel: {
                 Text("低")
-            }
-            maximumValueLabel: {
+            } maximumValueLabel: {
                 Text("高")
             }
             .gaugeStyle(.accessoryLinearCapacity)
