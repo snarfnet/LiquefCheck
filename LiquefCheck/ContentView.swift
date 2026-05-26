@@ -29,7 +29,7 @@ struct ContentView: View {
             .navigationBarTitleDisplayMode(.inline)
             .toolbarColorScheme(.dark, for: .navigationBar)
             .safeAreaInset(edge: .bottom) {
-                BannerAdView(adUnitID: "ca-app-pub-9404799280370656/LIQUEFCHK_B")
+                BannerAdView(adUnitID: "ca-app-pub-9404799280370656/4401657891")
                     .frame(height: 50)
                     .background(.ultraThinMaterial)
             }

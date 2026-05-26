@@ -51,7 +51,7 @@ targets:
           NSAllowsArbitraryLoads: true
         NSUserTrackingUsageDescription: "広告配信のためにデータを使用します。"
         NSLocationWhenInUseUsageDescription: "現在地の地盤情報を取得するために位置情報を使用します。"
-        GADApplicationIdentifier: ca-app-pub-9404799280370656~LIQUEFCHK1
+        GADApplicationIdentifier: ca-app-pub-9404799280370656~1512147977
         SKAdNetworkItems:
           - SKAdNetworkIdentifier: cstr6suwn9.skadnetwork
           - SKAdNetworkIdentifier: 4fzdc2evr5.skadnetwork
